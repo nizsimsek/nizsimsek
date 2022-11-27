@@ -49,7 +49,6 @@ You can message me anytime for any kind of help or guidance.
 <summary> ⚙️ Things I use to get stuff done</summary>
 
 - **OS:** Ubuntu v20.04 but sometimes Windows 10 <br/>
-- **Laptop:** ASUS FX553VD-DM160 but some companents update<br/>
-- **Browser:** Don't worry i can use every web browser </br>
-- **Code Editor:** VSCode - WebStorm <br/>
+- **Laptop:** ASUS FX553VD-DM160 but some components update<br/>
+- **Code Editor:** VSCode <br/>
 </details>
