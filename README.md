@@ -12,7 +12,7 @@ Apart from that I also love to help and guide newbies 👨‍💻.
 
 - 🌱 I'm currently learning JavaScript
 - 👨‍💻 Most of my projects are avaibale on [Github](https://github.com/nizsimsek?tab=repositories)
-- 💬 Ask me anything related to HTML, CSS, Javascript, Java and more. I am happy to help.
+- 💬 Ask me anything related to HTML, CSS, Javascript, React, Laravel and more. I am happy to help.
 - 📫 How to reach me: nizsimsek@gmail.com
 
 ### Let's Connect:
