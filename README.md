@@ -48,7 +48,8 @@ You can message me anytime for any kind of help or guidance.
 <details>
 <summary> ⚙️ Things I use to get stuff done</summary>
 
-- **OS:** Ubuntu v20.04 but sometimes Windows 10 <br/>
-- **Laptop:** ASUS FX553VD-DM160 but some components update<br/>
+- **OS:** Macos and Ubuntu v20.04 but sometimes Windows 10 <br/>
+- **Main Laptop:** MBPro M2 16gb/512gb<br/>
+- **Secondary Laptop:** ASUS FX553VD-DM160 but some components update<br/>
 - **Code Editor:** VSCode <br/>
 </details>
