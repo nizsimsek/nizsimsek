@@ -3,14 +3,14 @@
 
 <img width="33%"  align="right" src="https://cdn.dribbble.com/users/600557/screenshots/3625204/untitled-1.gif" >
  
-Myself Nizamettin Şimşek and I'm frontend developer💻. 
+Myself Nizamettin Şimşek and I'm Full-Stack developer💻. 
 I'm from Turkey and currently working at KCTEK company. 💻.
 I am passionate learner 💡 who's always willing to learn and explore new things. 
 Apart from that I also love to help and guide newbies 👨‍💻. 
 
 ## Talking about personal stuffs:
 
-- 🌱 I'm currently learning JavaScript
+- 🌱 I'm currently learning Golang for new career path
 - 👨‍💻 Most of my projects are avaibale on [Github](https://github.com/nizsimsek?tab=repositories)
 - 💬 Ask me anything related to HTML, CSS, Javascript, React, Laravel and more. I am happy to help.
 - 📫 How to reach me: nizsimsek@gmail.com
@@ -33,7 +33,7 @@ You can message me anytime for any kind of help or guidance.
 
 ### Languages, Technologies and Tools:
 
-<img alt = "HTML" width = "48px" src = "https://img.icons8.com/color/48/000000/html-5--v1.png" /><img alt = "CSS3" width = "48px" src = "https://img.icons8.com/color/48/000000/css3.png" /><img alt = "Bootstrap" width = "48px" src = "https://img.icons8.com/color/512/bootstrap.png" /><img alt = "TailwindCSS" width = "48px" src = "https://img.icons8.com/color/512/tailwindcss.png" /><img alt = "MaterialUI" width = "48px" src = "https://img.icons8.com/color/512/material-ui.png" /><img alt = "JavaScript" width = "48px" src = "https://img.icons8.com/color/48/000000/javascript--v1.png" /><img alt = "React" width = "48px" src = "https://img.icons8.com/plasticine/100/000000/react.png" /><img alt = "NextJS" width = "48px" src = "https://img.icons8.com/color/512/nextjs.png" /><img alt = "Laravel" width = "48px" src="https://img.icons8.com/fluency/512/laravel.png" /><img alt = "MySQL" width = "48px" src = "https://img.icons8.com/color/512/mysql-logo.png" /><img alt = "Git" width = "48px" src = "https://img.icons8.com/color/344/git.png" />
+<img alt = "HTML" width = "48px" src = "https://img.icons8.com/color/48/000000/html-5--v1.png" /><img alt = "CSS3" width = "48px" src = "https://img.icons8.com/color/48/000000/css3.png" /><img alt = "Bootstrap" width = "48px" src = "https://img.icons8.com/color/512/bootstrap.png" /><img alt = "TailwindCSS" width = "48px" src = "https://img.icons8.com/color/512/tailwindcss.png" /><img alt = "MaterialUI" width = "48px" src = "https://img.icons8.com/color/512/material-ui.png" /><img alt = "JavaScript" width = "48px" src = "https://img.icons8.com/color/48/000000/javascript--v1.png" /><img alt = "React" width = "48px" src = "https://img.icons8.com/plasticine/100/000000/react.png" /><img alt = "NextJS" width = "48px" src = "https://img.icons8.com/color/512/nextjs.png" /><img alt = "Laravel" width = "48px" src="https://img.icons8.com/fluency/512/laravel.png" /><img alt = "MySQL" width = "48px" src = "https://img.icons8.com/color/512/mysql-logo.png" /><img alt = "Git" width = "48px" src = "https://img.icons8.com/color/344/git.png" /><img alt = "Golang" width = "48px" src = "https://img.icons8.com/color/512/golang.png" />
 
 ### Projects and Dev stuffs:
 
