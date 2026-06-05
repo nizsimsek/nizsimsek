@@ -4,13 +4,11 @@
 <img width="33%"  align="right" src="https://cdn.dribbble.com/users/600557/screenshots/3625204/untitled-1.gif" >
  
 Myself Nizamettin Şimşek and I'm Full-Stack developer💻. 
-I'm from Turkey and currently working at KCTEK company. 💻.
 I am passionate learner 💡 who's always willing to learn and explore new things. 
 Apart from that I also love to help and guide newbies 👨‍💻. 
 
 ## Talking about personal stuffs:
 
-- 🌱 I'm currently learning Golang for new career path
 - 👨‍💻 Most of my projects are avaibale on [Github](https://github.com/nizsimsek?tab=repositories)
 - 💬 Ask me anything related to HTML, CSS, Javascript, React, Laravel and more. I am happy to help.
 - 📫 How to reach me: nizsimsek@gmail.com
